@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository.
+Use this image to review the HTML structure
